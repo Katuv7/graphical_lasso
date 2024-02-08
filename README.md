@@ -2,7 +2,7 @@
 
 Implementation: Sparse inverse covariance estimation with the graphical lasso from Friedman's paper.
 
-The graphical lasso algorithm is a powerful tool for estimating sparse graphical models, specifically focusing on the precision matrix $\Theta$ of a multivariate Gaussian distribution with mean $\mu$ and covariance matrix $\Sigma$. By incorporating \(L_1\) regularization, it promotes sparsity in $\Theta$, which is instrumental in revealing the conditional independence structure among variables.
+The graphical lasso algorithm is a powerful tool for estimating sparse graphical models, specifically focusing on the precision matrix $\Theta$ of a multivariate Gaussian distribution with mean $\mu$ and covariance matrix $\Sigma$. By incorporating $L_1$ regularization, it promotes sparsity in $\Theta$, which is instrumental in revealing the conditional independence structure among variables.
 
 # Sources
 
